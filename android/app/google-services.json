@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "982004191636",
+    "firebase_url": "https://bebapharmacydatabase.firebaseio.com",
+    "project_id": "bebapharmacydatabase",
+    "storage_bucket": "bebapharmacydatabase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982004191636:android:5551c27fb8f92d4c",
+        "android_client_info": {
+          "package_name": "com.beba5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982004191636-k39dhpfmctj1nu25v3hpntrra32p93tn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdxz4F5X-COHVg7cwKZfDp36iMr2GLuts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "982004191636-k39dhpfmctj1nu25v3hpntrra32p93tn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
